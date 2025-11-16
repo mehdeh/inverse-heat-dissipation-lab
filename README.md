@@ -33,12 +33,14 @@ Given the draft status, we do not yet guarantee reproducibility or backward comp
 ### Citation
 If you build upon the original method, please cite the upstream paper as requested by the authors:
 
+```bibtex
 @inproceedings{rissanen2023generative,
   title={Generative modelling with inverse heat dissipation},
   author={Severi Rissanen and Markus Heinonen and Arno Solin},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2023}
 }
+```
 
 ### Acknowledgements
 We thank the authors of the upstream repository for releasing their code under MIT, which made these experiments possible. For details about the original approach, datasets, and metrics, see the upstream README and documentation: [github.com/AaltoML/generative-inverse-heat-dissipation](https://github.com/AaltoML/generative-inverse-heat-dissipation).
