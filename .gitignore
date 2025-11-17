@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PEP 582
+__pypackages__/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Model checkpoints and weights (usually large)
+*.ckpt
+*.pt
+*.pth
+*.weights
+*.h5
+checkpoints/
+models/
+saved_models/
+
+# TensorBoard logs
+logs/
+tb_logs/
+tensorboard/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+
+# Large data files (uncomment if you want to ignore all data)
+# data/
+# *.npz
+# *.npy
+
+# Results and analysis outputs
+results.xlsx
+*.xlsx
+analysis/
+results/
+
